@@ -1,0 +1,81 @@
+_repo: Der-Tod-in-Venedig_12108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Mann, Paul Thomas
+    - Thomas, Paul
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mann
+description: "Death in Venice is a novella written by the German author Thomas Mann,\
+  \ first published in 1912 as Der Tod in Venedig. The work presents a great writer\
+  \ suffering writer's block who visits Venice and is liberated, uplifted, and then\
+  \ increasingly obsessed, by the sight of a stunningly beautiful youth. Though he\
+  \ never speaks to the boy, much less touches him, the writer finds himself drawn\
+  \ deep into ruinous inward passion; meanwhile, Venice, and finally, the writer himself,\
+  \ succumb to a cholera plague. The novella is powerfully intertextual, with the\
+  \ chief sources being first the connection of erotic love to philosophical wisdom\
+  \ traced in Plato's Symposium and Phaedrus, and second the Nietzschean contrast\
+  \ between the god of restraint and shaping form, Apollo, and the god of excess and\
+  \ passion, Dionysus.\nThe boy in the story (Tadzio) is based on a boy (Władzio or\
+  \ Tadzio, nicknames for the Polish name Władysław or Tadeusz respectively) Mann\
+  \ had seen during a visit to Venice in 1911.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Italy
+- DE Prosa
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12108'
+  wikidata: Q828296
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Venice (Italy) -- Fiction'
+- !lcsh 'Munich (Germany) -- Fiction'
+- GITenberg
+title: Der Tod in Venedig
+url: http://www.gutenberg.org/ebooks/12108
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kuolema_Venetsiassa_(novelli)
+- https://eo.wikipedia.org/wiki/La_morto_en_Venecio
+- https://fr.wikiquote.org/wiki/Mort_%C3%A0_Venise
+- https://uk.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D1%83_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D1%96%D1%97
+- https://fa.wikipedia.org/wiki/%D9%85%D8%B1%DA%AF_%D8%AF%D8%B1_%D9%88%D9%86%DB%8C%D8%B2
+- https://commons.wikimedia.org/wiki/Category:Der_Tod_in_Venedig
+- https://ms.wikipedia.org/wiki/Filem_Death_in_Venice
+- https://uk.wikiquote.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D1%83_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D1%96%D1%97
+- https://gl.wikipedia.org/wiki/A_morte_en_Venecia
+- https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%8B%E3%82%B9%E3%81%AB%E6%AD%BB%E3%81%99
+- https://pt.wikipedia.org/wiki/Morte_em_Veneza
+- https://sr.wikipedia.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D1%83_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%98%D0%B8
+- https://es.wikipedia.org/wiki/La_muerte_en_Venecia
+- https://en.wikipedia.org/wiki/Death_in_Venice
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D0%B2_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B8
+- https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%87_%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81
+- https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%84%A4%EC%B9%98%EC%95%84%EC%97%90%EC%84%9C%EC%9D%98_%EC%A3%BD%EC%9D%8C
+- https://et.wikipedia.org/wiki/Surm_Veneetsias
+- https://fr.wikipedia.org/wiki/La_Mort_%C3%A0_Venise
+- https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E4%B9%8B%E6%AD%BB
+- https://en.wikiquote.org/wiki/Death_in_Venice
+- https://pl.wikipedia.org/wiki/%C5%9Amier%C4%87_w_Wenecji
+- https://da.wikipedia.org/wiki/D%C3%B8den_i_Venedig
+- https://sv.wikipedia.org/wiki/D%C3%B6den_i_Venedig
+- https://mk.wikipedia.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%B2%D0%BE_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%98%D0%B0
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%88%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D9%82%D9%8A%D8%A9
+- https://nl.wikipedia.org/wiki/De_dood_in_Veneti%C3%AB
+- https://cs.wikipedia.org/wiki/Smrt_v_Ben%C3%A1tk%C3%A1ch
+- https://de.wikipedia.org/wiki/Der_Tod_in_Venedig
+- https://eu.wikipedia.org/wiki/Herioa_Venezian
+- https://it.wikipedia.org/wiki/La_morte_a_Venezia
+- https://no.wikipedia.org/wiki/D%C3%B8den_i_Venedig
+- https://ca.wikipedia.org/wiki/La_mort_a_Ven%C3%A8cia
+- https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%95%D7%AA_%D7%91%D7%95%D7%95%D7%A0%D7%A6%D7%99%D7%94
