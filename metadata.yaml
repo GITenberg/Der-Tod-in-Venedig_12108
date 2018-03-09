@@ -1,5 +1,8 @@
 _repo: Der-Tod-in-Venedig_12108
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mann, Thomas
@@ -24,6 +27,8 @@ description: "Death in Venice is a novella written by the German author Thomas M
   \ passion, Dionysus.\nThe boy in the story (Tadzio) is based on a boy (Władzio or\
   \ Tadzio, nicknames for the Polish name Władysław or Tadeusz respectively) Mann\
   \ had seen during a visit to Venice in 1911.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12108#Der-Tod-in-Venedig
 gutenberg_bookshelf:
 - Italy
 - DE Prosa
